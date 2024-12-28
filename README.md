@@ -8,7 +8,7 @@ Website: http://tarimgo.com/
 
 ![image](https://github.com/user-attachments/assets/ff716778-760b-43a0-a566-22912fa240b0)
 
-Note: You can review the embeddedTermProject.docx file to get detailed information about your project.
+Note: You can review the embeddedTermProject.docx file to get detailed information about your project. You can get an idea of ​​how the project works by watching the video.
 
 This project introduces Targo, an innovative system designed to optimize agricultural efficiency by integrating advanced sensing and analysis technologies. Targo precisely measures critical soil parameters such as water content, temperature, humidity, and essential mineral levels, including potassium, nitrogen, and phosphorus. By leveraging data collected directly from the soil, the system identifies deficiencies and provides realtime feedback to users, enabling prompt corrective actions. 
 
