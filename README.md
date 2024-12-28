@@ -6,6 +6,7 @@ Website: http://tarimgo.com/
 
 ![image](https://github.com/user-attachments/assets/7ebf424f-33e0-4a70-8835-86abdecc605c)
 
+![image](https://github.com/user-attachments/assets/ff716778-760b-43a0-a566-22912fa240b0)
 
 Note: You can review the embeddedTermProject.docx file to get detailed information about your project.
 
